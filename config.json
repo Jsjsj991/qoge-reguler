@@ -8,7 +8,7 @@
 	"user" : "qT3gJ6ijQ4AJ473QTuHtkaSbArpwdgNFBN",
 	"pass" : "c=QOGE,id=docker",
 
-	"algo" : "yespower",
+	"algo" : "yescryptr16",
 	"threads" : 4,
 
 	"no-color" : true
